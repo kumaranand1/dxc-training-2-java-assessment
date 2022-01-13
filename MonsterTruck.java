@@ -1,4 +1,4 @@
-public class MonsterTruck extends Truck {
+public class Monstertruck extends Truck {
     public void m1() {
         System.out.println("monster1");
 
