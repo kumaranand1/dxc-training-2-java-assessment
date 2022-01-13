@@ -1,6 +1,6 @@
 package solution;
 import java.util.*;
-public class ArrayTest
+public class Arraytest
 {
     public static boolean isUnique(int[] a)
 	{
